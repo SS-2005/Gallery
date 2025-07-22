@@ -79,4 +79,5 @@ Unsplash: For sample images (replace with actual CollegeTips content)
 
 ## License:
 
-This project is open-source and available under the MIT License. Feel free to use and modify for your needs.
+This project is open-source and available under the MIT License
+.Feel free to use and modify for your needs.
